@@ -19,4 +19,8 @@ problems from hackerrank and leetcode
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/vikram-17-code/coding/tree/master/0007-reverse-integer) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/vikram-17-code/coding/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->

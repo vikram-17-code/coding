@@ -7,6 +7,7 @@ problems from hackerrank and leetcode
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vikram-17-code/coding/tree/master/0011-container-with-most-water) |
+| [0041-first-missing-positive](https://github.com/vikram-17-code/coding/tree/master/0041-first-missing-positive) |
 ## Two Pointers
 |  |
 | ------- |
@@ -29,5 +30,6 @@ problems from hackerrank and leetcode
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/vikram-17-code/coding/tree/master/0041-first-missing-positive) |
 | [0205-isomorphic-strings](https://github.com/vikram-17-code/coding/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->

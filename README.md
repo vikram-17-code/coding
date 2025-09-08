@@ -8,6 +8,7 @@ problems from hackerrank and leetcode
 | ------- |
 | [0011-container-with-most-water](https://github.com/vikram-17-code/coding/tree/master/0011-container-with-most-water) |
 | [0041-first-missing-positive](https://github.com/vikram-17-code/coding/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/vikram-17-code/coding/tree/master/0048-rotate-image) |
 ## Two Pointers
 |  |
 | ------- |
@@ -21,6 +22,7 @@ problems from hackerrank and leetcode
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/vikram-17-code/coding/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/vikram-17-code/coding/tree/master/0048-rotate-image) |
 ## String
 |  |
 | ------- |
@@ -32,4 +34,8 @@ problems from hackerrank and leetcode
 | ------- |
 | [0041-first-missing-positive](https://github.com/vikram-17-code/coding/tree/master/0041-first-missing-positive) |
 | [0205-isomorphic-strings](https://github.com/vikram-17-code/coding/tree/master/0205-isomorphic-strings) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/vikram-17-code/coding/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->

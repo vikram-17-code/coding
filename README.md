@@ -31,11 +31,13 @@ problems from hackerrank and leetcode
 | [0125-valid-palindrome](https://github.com/vikram-17-code/coding/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/vikram-17-code/coding/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/vikram-17-code/coding/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/vikram-17-code/coding/tree/master/0290-word-pattern) |
 ## Hash Table
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/vikram-17-code/coding/tree/master/0041-first-missing-positive) |
 | [0205-isomorphic-strings](https://github.com/vikram-17-code/coding/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/vikram-17-code/coding/tree/master/0290-word-pattern) |
 ## Matrix
 |  |
 | ------- |

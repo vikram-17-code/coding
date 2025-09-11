@@ -1,0 +1,34 @@
+n=int(input("enter size:"))
+m=int(input("enter size:"))
+rows=[]
+for i in range(n):
+    row=list(map(int,input().split()))
+    if len(row)==m:
+             rows.append(row)
+    else:
+        print("invalid")
+top=0
+right=m
+bottom=n
+left=0
+result=[]
+while(True):
+    for i in range(left,right):
+        result.append(rows[top][i])
+    top+=1
+    
+    for i in range(top,bottom):
+        result.append(rows[i][right-1])
+    right-=1
+    if(top<=bottom):
+        for i in range(right-1,left-1,-1):
+            result.append(rows[bottom-1][i])
+        bottom-=1#2
+    if(left<=right):
+        for i in range(bottom-1,top-1,-1):
+            result.append(rows[i][left])
+        left+=1
+    if((top>bottom) and (left>right)):
+        break
+print(result)
+

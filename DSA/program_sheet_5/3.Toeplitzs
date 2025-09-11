@@ -1,0 +1,21 @@
+n=int(input("enter size:"))
+m=int(input("enter size:"))
+rows=[]
+for i in range(n):
+    row=list(map(int,input().split()))
+    if len(row)==m:
+        rows.append(row)
+    else:
+        print("invalid")
+fail=False
+for i in range(n):
+    for j in range(m):
+        if rows[i][j]!=rows[i-1][j-1]:
+            fail=True
+            break
+    if(fail):
+        break
+print(not(fail))        
+            
+
+

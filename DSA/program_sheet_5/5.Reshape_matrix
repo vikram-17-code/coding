@@ -1,0 +1,19 @@
+import numpy as np
+
+rows=int(input("Enter row"))
+columns=int(input("Enter columns"))
+arr=[]
+neg=0
+for i in range(rows):
+    row = list(map(int,input().split()))
+    if len(row)!=columns:
+        print("invalid")
+    else:
+        arr.append(row)
+
+if((len(arr)*len(arr[0]))==r*c):
+    a=np.reshape(arr,(r,c))
+    print(a.tolist())
+
+else:
+    print(arr)

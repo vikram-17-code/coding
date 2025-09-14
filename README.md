@@ -10,6 +10,7 @@ problems from hackerrank and leetcode
 | [0041-first-missing-positive](https://github.com/vikram-17-code/coding/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/vikram-17-code/coding/tree/master/0048-rotate-image) |
 | [0318-maximum-product-of-word-lengths](https://github.com/vikram-17-code/coding/tree/master/0318-maximum-product-of-word-lengths) |
+| [0566-reshape-the-matrix](https://github.com/vikram-17-code/coding/tree/master/0566-reshape-the-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,8 +45,13 @@ problems from hackerrank and leetcode
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/vikram-17-code/coding/tree/master/0048-rotate-image) |
+| [0566-reshape-the-matrix](https://github.com/vikram-17-code/coding/tree/master/0566-reshape-the-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0318-maximum-product-of-word-lengths](https://github.com/vikram-17-code/coding/tree/master/0318-maximum-product-of-word-lengths) |
+## Simulation
+|  |
+| ------- |
+| [0566-reshape-the-matrix](https://github.com/vikram-17-code/coding/tree/master/0566-reshape-the-matrix) |
 <!---LeetCode Topics End-->

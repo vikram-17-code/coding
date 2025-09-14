@@ -1,0 +1,21 @@
+rows=int(input("Enter row"))
+columns=int(input("Enter columns"))
+arr=[]
+neg=0
+for i in range(rows):
+    row = list(map(int,input().split()))
+    if len(row)!=columns:
+        print("invalid")
+    else:
+        arr.append(row)
+count = 0
+row=rows-1
+col=0
+
+while row >= 0 and col < columns:
+    if arr[row][col] < 0:
+        count += columns - col  
+        row -= 1          
+    else:
+        col += 1  
+print(count)

@@ -14,6 +14,7 @@ problems from hackerrank and leetcode
 | [0169-majority-element](https://github.com/vikram-17-code/coding/tree/master/0169-majority-element) |
 | [0318-maximum-product-of-word-lengths](https://github.com/vikram-17-code/coding/tree/master/0318-maximum-product-of-word-lengths) |
 | [0566-reshape-the-matrix](https://github.com/vikram-17-code/coding/tree/master/0566-reshape-the-matrix) |
+| [2486-most-frequent-even-element](https://github.com/vikram-17-code/coding/tree/master/2486-most-frequent-even-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -47,6 +48,7 @@ problems from hackerrank and leetcode
 | [0169-majority-element](https://github.com/vikram-17-code/coding/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/vikram-17-code/coding/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/vikram-17-code/coding/tree/master/0290-word-pattern) |
+| [2486-most-frequent-even-element](https://github.com/vikram-17-code/coding/tree/master/2486-most-frequent-even-element) |
 ## Matrix
 |  |
 | ------- |
@@ -74,6 +76,7 @@ problems from hackerrank and leetcode
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vikram-17-code/coding/tree/master/0169-majority-element) |
+| [2486-most-frequent-even-element](https://github.com/vikram-17-code/coding/tree/master/2486-most-frequent-even-element) |
 ## Stack
 |  |
 | ------- |

@@ -31,6 +31,7 @@ problems from hackerrank and leetcode
 | ------- |
 | [0007-reverse-integer](https://github.com/vikram-17-code/coding/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/vikram-17-code/coding/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/vikram-17-code/coding/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/vikram-17-code/coding/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/vikram-17-code/coding/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/vikram-17-code/coding/tree/master/0342-power-of-four) |
@@ -95,4 +96,8 @@ problems from hackerrank and leetcode
 | [0231-power-of-two](https://github.com/vikram-17-code/coding/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/vikram-17-code/coding/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/vikram-17-code/coding/tree/master/0342-power-of-four) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/vikram-17-code/coding/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->

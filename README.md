@@ -31,6 +31,7 @@ problems from hackerrank and leetcode
 | ------- |
 | [0007-reverse-integer](https://github.com/vikram-17-code/coding/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/vikram-17-code/coding/tree/master/0048-rotate-image) |
+| [0231-power-of-two](https://github.com/vikram-17-code/coding/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -59,6 +60,7 @@ problems from hackerrank and leetcode
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/vikram-17-code/coding/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/vikram-17-code/coding/tree/master/0231-power-of-two) |
 | [0318-maximum-product-of-word-lengths](https://github.com/vikram-17-code/coding/tree/master/0318-maximum-product-of-word-lengths) |
 ## Simulation
 |  |
@@ -83,4 +85,8 @@ problems from hackerrank and leetcode
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vikram-17-code/coding/tree/master/0020-valid-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/vikram-17-code/coding/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->

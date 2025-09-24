@@ -58,6 +58,7 @@ problems from hackerrank and leetcode
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/vikram-17-code/coding/tree/master/0191-number-of-1-bits) |
 | [0318-maximum-product-of-word-lengths](https://github.com/vikram-17-code/coding/tree/master/0318-maximum-product-of-word-lengths) |
 ## Simulation
 |  |
@@ -68,6 +69,7 @@ problems from hackerrank and leetcode
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vikram-17-code/coding/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/vikram-17-code/coding/tree/master/0191-number-of-1-bits) |
 ## Sorting
 |  |
 | ------- |

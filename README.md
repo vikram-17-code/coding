@@ -33,6 +33,7 @@ problems from hackerrank and leetcode
 | [0048-rotate-image](https://github.com/vikram-17-code/coding/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/vikram-17-code/coding/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/vikram-17-code/coding/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/vikram-17-code/coding/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/vikram-17-code/coding/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/vikram-17-code/coding/tree/master/0342-power-of-four) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/vikram-17-code/coding/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -71,6 +72,7 @@ problems from hackerrank and leetcode
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/vikram-17-code/coding/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/vikram-17-code/coding/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/vikram-17-code/coding/tree/master/0566-reshape-the-matrix) |
 ## Divide and Conquer
 |  |
@@ -100,4 +102,8 @@ problems from hackerrank and leetcode
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/vikram-17-code/coding/tree/master/0069-sqrtx) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/vikram-17-code/coding/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->

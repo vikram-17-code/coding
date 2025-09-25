@@ -10,6 +10,7 @@ class Solution:
                     return False
                 dict1[5]-=1
                 dict1[10]+=1
+                continue
             if bills[i]==20:
                 if dict1[5]==0:
                     return False

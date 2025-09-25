@@ -49,6 +49,7 @@ problems from hackerrank and leetcode
 | [0205-isomorphic-strings](https://github.com/vikram-17-code/coding/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/vikram-17-code/coding/tree/master/0290-word-pattern) |
 | [0318-maximum-product-of-word-lengths](https://github.com/vikram-17-code/coding/tree/master/0318-maximum-product-of-word-lengths) |
+| [2406-decode-the-message](https://github.com/vikram-17-code/coding/tree/master/2406-decode-the-message) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +57,7 @@ problems from hackerrank and leetcode
 | [0169-majority-element](https://github.com/vikram-17-code/coding/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/vikram-17-code/coding/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/vikram-17-code/coding/tree/master/0290-word-pattern) |
+| [2406-decode-the-message](https://github.com/vikram-17-code/coding/tree/master/2406-decode-the-message) |
 | [2486-most-frequent-even-element](https://github.com/vikram-17-code/coding/tree/master/2486-most-frequent-even-element) |
 ## Matrix
 |  |

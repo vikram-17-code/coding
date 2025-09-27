@@ -7,6 +7,7 @@ problems from hackerrank and leetcode
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vikram-17-code/coding/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/vikram-17-code/coding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vikram-17-code/coding/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/vikram-17-code/coding/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/vikram-17-code/coding/tree/master/0048-rotate-image) |
@@ -23,6 +24,7 @@ problems from hackerrank and leetcode
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vikram-17-code/coding/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/vikram-17-code/coding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vikram-17-code/coding/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/vikram-17-code/coding/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/vikram-17-code/coding/tree/master/0151-reverse-words-in-a-string) |

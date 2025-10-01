@@ -6,6 +6,7 @@ problems from hackerrank and leetcode
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/vikram-17-code/coding/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/vikram-17-code/coding/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vikram-17-code/coding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vikram-17-code/coding/tree/master/0027-remove-element) |
@@ -91,6 +92,7 @@ problems from hackerrank and leetcode
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/vikram-17-code/coding/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/vikram-17-code/coding/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/vikram-17-code/coding/tree/master/0191-number-of-1-bits) |
 ## Sorting
@@ -115,6 +117,7 @@ problems from hackerrank and leetcode
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/vikram-17-code/coding/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/vikram-17-code/coding/tree/master/0069-sqrtx) |
 ## Number Theory
 |  |

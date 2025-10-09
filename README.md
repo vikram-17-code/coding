@@ -45,6 +45,7 @@ problems from hackerrank and leetcode
 | [0258-add-digits](https://github.com/vikram-17-code/coding/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/vikram-17-code/coding/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/vikram-17-code/coding/tree/master/0342-power-of-four) |
+| [1642-water-bottles](https://github.com/vikram-17-code/coding/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/vikram-17-code/coding/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 ## String
 |  |
@@ -89,6 +90,7 @@ problems from hackerrank and leetcode
 | [0059-spiral-matrix-ii](https://github.com/vikram-17-code/coding/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/vikram-17-code/coding/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/vikram-17-code/coding/tree/master/0566-reshape-the-matrix) |
+| [1642-water-bottles](https://github.com/vikram-17-code/coding/tree/master/1642-water-bottles) |
 ## Divide and Conquer
 |  |
 | ------- |

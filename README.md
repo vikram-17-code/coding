@@ -110,6 +110,7 @@ problems from hackerrank and leetcode
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vikram-17-code/coding/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/vikram-17-code/coding/tree/master/0155-min-stack) |
 ## Recursion
 |  |
 | ------- |
@@ -133,4 +134,8 @@ problems from hackerrank and leetcode
 |  |
 | ------- |
 | [0078-subsets](https://github.com/vikram-17-code/coding/tree/master/0078-subsets) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/vikram-17-code/coding/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->

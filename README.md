@@ -112,6 +112,7 @@ problems from hackerrank and leetcode
 | [0020-valid-parentheses](https://github.com/vikram-17-code/coding/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/vikram-17-code/coding/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/vikram-17-code/coding/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/vikram-17-code/coding/tree/master/0232-implement-queue-using-stacks) |
 ## Recursion
 |  |
 | ------- |
@@ -140,8 +141,10 @@ problems from hackerrank and leetcode
 | ------- |
 | [0155-min-stack](https://github.com/vikram-17-code/coding/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/vikram-17-code/coding/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/vikram-17-code/coding/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/vikram-17-code/coding/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/vikram-17-code/coding/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->

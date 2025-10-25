@@ -41,6 +41,19 @@ void removespace(char *s){
     }
 }
 void main(){
+    char s[1000];
+    fgets(s,sizeof(s),stdin);
+    int len=strlrn(s);
+    if(len>0 && s[len -1] == '\n'){
+        s[len -1]='\0';
+        len--;
+    }
+    while(len>0 && isspace((unsigned char)s[len - 1])){
+        s[len -1] = '\0';
+        len--;
+    }
+    remove
+    
 
 }
 

@@ -45,6 +45,7 @@ problems from hackerrank and leetcode
 | [0258-add-digits](https://github.com/vikram-17-code/coding/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/vikram-17-code/coding/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/vikram-17-code/coding/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/vikram-17-code/coding/tree/master/0412-fizz-buzz) |
 | [1642-water-bottles](https://github.com/vikram-17-code/coding/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/vikram-17-code/coding/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 ## String
@@ -57,6 +58,7 @@ problems from hackerrank and leetcode
 | [0205-isomorphic-strings](https://github.com/vikram-17-code/coding/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/vikram-17-code/coding/tree/master/0290-word-pattern) |
 | [0318-maximum-product-of-word-lengths](https://github.com/vikram-17-code/coding/tree/master/0318-maximum-product-of-word-lengths) |
+| [0412-fizz-buzz](https://github.com/vikram-17-code/coding/tree/master/0412-fizz-buzz) |
 | [2406-decode-the-message](https://github.com/vikram-17-code/coding/tree/master/2406-decode-the-message) |
 ## Hash Table
 |  |
@@ -89,6 +91,7 @@ problems from hackerrank and leetcode
 | [0054-spiral-matrix](https://github.com/vikram-17-code/coding/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/vikram-17-code/coding/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/vikram-17-code/coding/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/vikram-17-code/coding/tree/master/0412-fizz-buzz) |
 | [0566-reshape-the-matrix](https://github.com/vikram-17-code/coding/tree/master/0566-reshape-the-matrix) |
 | [1642-water-bottles](https://github.com/vikram-17-code/coding/tree/master/1642-water-bottles) |
 ## Divide and Conquer

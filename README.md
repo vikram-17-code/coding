@@ -46,6 +46,7 @@ problems from hackerrank and leetcode
 | [0326-power-of-three](https://github.com/vikram-17-code/coding/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/vikram-17-code/coding/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/vikram-17-code/coding/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/vikram-17-code/coding/tree/master/0441-arranging-coins) |
 | [1642-water-bottles](https://github.com/vikram-17-code/coding/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/vikram-17-code/coding/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 ## String
@@ -127,6 +128,7 @@ problems from hackerrank and leetcode
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vikram-17-code/coding/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/vikram-17-code/coding/tree/master/0069-sqrtx) |
+| [0441-arranging-coins](https://github.com/vikram-17-code/coding/tree/master/0441-arranging-coins) |
 ## Number Theory
 |  |
 | ------- |

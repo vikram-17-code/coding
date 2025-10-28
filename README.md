@@ -60,6 +60,7 @@ problems from hackerrank and leetcode
 | [0290-word-pattern](https://github.com/vikram-17-code/coding/tree/master/0290-word-pattern) |
 | [0318-maximum-product-of-word-lengths](https://github.com/vikram-17-code/coding/tree/master/0318-maximum-product-of-word-lengths) |
 | [0412-fizz-buzz](https://github.com/vikram-17-code/coding/tree/master/0412-fizz-buzz) |
+| [0551-student-attendance-record-i](https://github.com/vikram-17-code/coding/tree/master/0551-student-attendance-record-i) |
 | [2406-decode-the-message](https://github.com/vikram-17-code/coding/tree/master/2406-decode-the-message) |
 ## Hash Table
 |  |

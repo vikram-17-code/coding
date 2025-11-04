@@ -14,6 +14,7 @@ problems from hackerrank and leetcode
 | [0048-rotate-image](https://github.com/vikram-17-code/coding/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/vikram-17-code/coding/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/vikram-17-code/coding/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/vikram-17-code/coding/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/vikram-17-code/coding/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vikram-17-code/coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/vikram-17-code/coding/tree/master/0136-single-number) |
@@ -40,6 +41,7 @@ problems from hackerrank and leetcode
 | ------- |
 | [0007-reverse-integer](https://github.com/vikram-17-code/coding/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/vikram-17-code/coding/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/vikram-17-code/coding/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/vikram-17-code/coding/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/vikram-17-code/coding/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/vikram-17-code/coding/tree/master/0258-add-digits) |

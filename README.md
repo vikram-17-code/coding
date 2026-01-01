@@ -42,6 +42,7 @@ problems from hackerrank and leetcode
 | [0007-reverse-integer](https://github.com/vikram-17-code/coding/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/vikram-17-code/coding/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/vikram-17-code/coding/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/vikram-17-code/coding/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/vikram-17-code/coding/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/vikram-17-code/coding/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/vikram-17-code/coding/tree/master/0258-add-digits) |
@@ -56,6 +57,7 @@ problems from hackerrank and leetcode
 | ------- |
 | [0020-valid-parentheses](https://github.com/vikram-17-code/coding/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/vikram-17-code/coding/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/vikram-17-code/coding/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/vikram-17-code/coding/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/vikram-17-code/coding/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/vikram-17-code/coding/tree/master/0205-isomorphic-strings) |
@@ -83,6 +85,7 @@ problems from hackerrank and leetcode
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/vikram-17-code/coding/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/vikram-17-code/coding/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/vikram-17-code/coding/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/vikram-17-code/coding/tree/master/0191-number-of-1-bits) |
@@ -94,6 +97,7 @@ problems from hackerrank and leetcode
 | ------- |
 | [0054-spiral-matrix](https://github.com/vikram-17-code/coding/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/vikram-17-code/coding/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/vikram-17-code/coding/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/vikram-17-code/coding/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/vikram-17-code/coding/tree/master/0412-fizz-buzz) |
 | [0566-reshape-the-matrix](https://github.com/vikram-17-code/coding/tree/master/0566-reshape-the-matrix) |

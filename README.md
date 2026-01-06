@@ -159,4 +159,16 @@ problems from hackerrank and leetcode
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/vikram-17-code/coding/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vikram-17-code/coding/tree/master/0232-implement-queue-using-stacks) |
+## Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/vikram-17-code/coding/tree/master/0110-balanced-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/vikram-17-code/coding/tree/master/0110-balanced-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/vikram-17-code/coding/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->

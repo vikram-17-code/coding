@@ -57,6 +57,7 @@ problems from hackerrank and leetcode
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vikram-17-code/coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/vikram-17-code/coding/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/vikram-17-code/coding/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/vikram-17-code/coding/tree/master/0067-add-binary) |
@@ -71,6 +72,7 @@ problems from hackerrank and leetcode
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vikram-17-code/coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/vikram-17-code/coding/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/vikram-17-code/coding/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/vikram-17-code/coding/tree/master/0205-isomorphic-strings) |
@@ -189,4 +191,8 @@ problems from hackerrank and leetcode
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/vikram-17-code/coding/tree/master/0098-validate-binary-search-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vikram-17-code/coding/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->

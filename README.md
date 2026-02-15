@@ -145,6 +145,7 @@ problems from hackerrank and leetcode
 | [0004-median-of-two-sorted-arrays](https://github.com/vikram-17-code/coding/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/vikram-17-code/coding/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vikram-17-code/coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0278-first-bad-version](https://github.com/vikram-17-code/coding/tree/master/0278-first-bad-version) |
 | [0441-arranging-coins](https://github.com/vikram-17-code/coding/tree/master/0441-arranging-coins) |
 ## Number Theory
 |  |
@@ -210,4 +211,8 @@ problems from hackerrank and leetcode
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/vikram-17-code/coding/tree/master/0292-nim-game) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/vikram-17-code/coding/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->

@@ -68,6 +68,7 @@ problems from hackerrank and leetcode
 | [0205-isomorphic-strings](https://github.com/vikram-17-code/coding/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/vikram-17-code/coding/tree/master/0290-word-pattern) |
 | [0318-maximum-product-of-word-lengths](https://github.com/vikram-17-code/coding/tree/master/0318-maximum-product-of-word-lengths) |
+| [0383-ransom-note](https://github.com/vikram-17-code/coding/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/vikram-17-code/coding/tree/master/0412-fizz-buzz) |
 | [0551-student-attendance-record-i](https://github.com/vikram-17-code/coding/tree/master/0551-student-attendance-record-i) |
 | [2406-decode-the-message](https://github.com/vikram-17-code/coding/tree/master/2406-decode-the-message) |
@@ -80,6 +81,7 @@ problems from hackerrank and leetcode
 | [0169-majority-element](https://github.com/vikram-17-code/coding/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/vikram-17-code/coding/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/vikram-17-code/coding/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/vikram-17-code/coding/tree/master/0383-ransom-note) |
 | [2406-decode-the-message](https://github.com/vikram-17-code/coding/tree/master/2406-decode-the-message) |
 | [2486-most-frequent-even-element](https://github.com/vikram-17-code/coding/tree/master/2486-most-frequent-even-element) |
 ## Matrix
@@ -123,6 +125,7 @@ problems from hackerrank and leetcode
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vikram-17-code/coding/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/vikram-17-code/coding/tree/master/0383-ransom-note) |
 | [2486-most-frequent-even-element](https://github.com/vikram-17-code/coding/tree/master/2486-most-frequent-even-element) |
 ## Stack
 |  |

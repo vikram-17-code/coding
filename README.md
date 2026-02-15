@@ -49,6 +49,7 @@ problems from hackerrank and leetcode
 | [0069-sqrtx](https://github.com/vikram-17-code/coding/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/vikram-17-code/coding/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/vikram-17-code/coding/tree/master/0258-add-digits) |
+| [0292-nim-game](https://github.com/vikram-17-code/coding/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/vikram-17-code/coding/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/vikram-17-code/coding/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/vikram-17-code/coding/tree/master/0412-fizz-buzz) |
@@ -201,4 +202,12 @@ problems from hackerrank and leetcode
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/vikram-17-code/coding/tree/master/0141-linked-list-cycle) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/vikram-17-code/coding/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/vikram-17-code/coding/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->

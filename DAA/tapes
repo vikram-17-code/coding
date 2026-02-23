@@ -1,0 +1,20 @@
+n_tapes= int(input("enter number of tapes"))
+
+tapes=[[] for i in range(n_tapes)]
+
+records = list(map(int,input("enter values : ").split()))
+counter=0
+records.sort()
+for i in records:
+    counter%=n_tapes
+    tapes[counter].append(i)
+    counter+=1
+    
+for i in tapes:
+    avg=0
+    for j in i :
+        avg+=j
+    avg=avg/len(i)
+    print(i , "the avg is :" ,avg )
+
+print(tapes)

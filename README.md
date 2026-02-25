@@ -21,6 +21,7 @@ problems from hackerrank and leetcode
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vikram-17-code/coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/vikram-17-code/coding/tree/master/0169-majority-element) |
 | [0318-maximum-product-of-word-lengths](https://github.com/vikram-17-code/coding/tree/master/0318-maximum-product-of-word-lengths) |
+| [0495-teemo-attacking](https://github.com/vikram-17-code/coding/tree/master/0495-teemo-attacking) |
 | [0500-keyboard-row](https://github.com/vikram-17-code/coding/tree/master/0500-keyboard-row) |
 | [0566-reshape-the-matrix](https://github.com/vikram-17-code/coding/tree/master/0566-reshape-the-matrix) |
 | [0890-lemonade-change](https://github.com/vikram-17-code/coding/tree/master/0890-lemonade-change) |
@@ -118,6 +119,7 @@ problems from hackerrank and leetcode
 | [0067-add-binary](https://github.com/vikram-17-code/coding/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/vikram-17-code/coding/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/vikram-17-code/coding/tree/master/0412-fizz-buzz) |
+| [0495-teemo-attacking](https://github.com/vikram-17-code/coding/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/vikram-17-code/coding/tree/master/0566-reshape-the-matrix) |
 | [1642-water-bottles](https://github.com/vikram-17-code/coding/tree/master/1642-water-bottles) |
 ## Divide and Conquer

@@ -71,6 +71,7 @@ problems from hackerrank and leetcode
 | [0318-maximum-product-of-word-lengths](https://github.com/vikram-17-code/coding/tree/master/0318-maximum-product-of-word-lengths) |
 | [0383-ransom-note](https://github.com/vikram-17-code/coding/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/vikram-17-code/coding/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/vikram-17-code/coding/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/vikram-17-code/coding/tree/master/0412-fizz-buzz) |
 | [0500-keyboard-row](https://github.com/vikram-17-code/coding/tree/master/0500-keyboard-row) |
 | [0551-student-attendance-record-i](https://github.com/vikram-17-code/coding/tree/master/0551-student-attendance-record-i) |
@@ -87,6 +88,7 @@ problems from hackerrank and leetcode
 | [0290-word-pattern](https://github.com/vikram-17-code/coding/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/vikram-17-code/coding/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/vikram-17-code/coding/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/vikram-17-code/coding/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/vikram-17-code/coding/tree/master/0500-keyboard-row) |
 | [2406-decode-the-message](https://github.com/vikram-17-code/coding/tree/master/2406-decode-the-message) |
 | [2486-most-frequent-even-element](https://github.com/vikram-17-code/coding/tree/master/2486-most-frequent-even-element) |
@@ -107,6 +109,7 @@ problems from hackerrank and leetcode
 | [0231-power-of-two](https://github.com/vikram-17-code/coding/tree/master/0231-power-of-two) |
 | [0318-maximum-product-of-word-lengths](https://github.com/vikram-17-code/coding/tree/master/0318-maximum-product-of-word-lengths) |
 | [0342-power-of-four](https://github.com/vikram-17-code/coding/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/vikram-17-code/coding/tree/master/0389-find-the-difference) |
 ## Simulation
 |  |
 | ------- |
@@ -127,6 +130,7 @@ problems from hackerrank and leetcode
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vikram-17-code/coding/tree/master/0169-majority-element) |
+| [0389-find-the-difference](https://github.com/vikram-17-code/coding/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
 | ------- |

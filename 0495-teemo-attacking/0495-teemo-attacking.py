@@ -1,14 +1,9 @@
 class Solution:
     def findPoisonedDuration(self, timeSeries: List[int], duration: int) -> int:
-        arr = list(timeSeries)
         poisoned =0
-        for i in range(len(timeSeries)):
-            
-            if (i+1 >= len(timeSeries)):
-                poisoned+=duration
+        for i in range(len(timeSeries)-1):
+            if((timeSeries[i+1]-timeSeries[i])<duration):
+               poisoned+=timeSeries[i+1]-timeSeries[i]
             else:
-                if((arr[i+1]-arr[i])<duration):
-                   poisoned+=arr[i+1]-arr[i]
-                else:
-                    poisoned+=duration
-        return poisoned
+                poisoned+=duration
+        return poisoned+duration

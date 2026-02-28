@@ -13,6 +13,7 @@ problems from hackerrank and leetcode
 | [0041-first-missing-positive](https://github.com/vikram-17-code/coding/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/vikram-17-code/coding/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/vikram-17-code/coding/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/vikram-17-code/coding/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/vikram-17-code/coding/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/vikram-17-code/coding/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/vikram-17-code/coding/tree/master/0078-subsets) |
@@ -41,6 +42,7 @@ problems from hackerrank and leetcode
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vikram-17-code/coding/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/vikram-17-code/coding/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vikram-17-code/coding/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0890-lemonade-change](https://github.com/vikram-17-code/coding/tree/master/0890-lemonade-change) |
 ## Math
@@ -172,6 +174,7 @@ problems from hackerrank and leetcode
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/vikram-17-code/coding/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vikram-17-code/coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vikram-17-code/coding/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Backtracking

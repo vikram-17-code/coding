@@ -24,6 +24,7 @@ problems from hackerrank and leetcode
 | [0136-single-number](https://github.com/vikram-17-code/coding/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vikram-17-code/coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/vikram-17-code/coding/tree/master/0169-majority-element) |
+| [0260-single-number-iii](https://github.com/vikram-17-code/coding/tree/master/0260-single-number-iii) |
 | [0318-maximum-product-of-word-lengths](https://github.com/vikram-17-code/coding/tree/master/0318-maximum-product-of-word-lengths) |
 | [0495-teemo-attacking](https://github.com/vikram-17-code/coding/tree/master/0495-teemo-attacking) |
 | [0500-keyboard-row](https://github.com/vikram-17-code/coding/tree/master/0500-keyboard-row) |
@@ -117,6 +118,7 @@ problems from hackerrank and leetcode
 | [0136-single-number](https://github.com/vikram-17-code/coding/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/vikram-17-code/coding/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/vikram-17-code/coding/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/vikram-17-code/coding/tree/master/0260-single-number-iii) |
 | [0318-maximum-product-of-word-lengths](https://github.com/vikram-17-code/coding/tree/master/0318-maximum-product-of-word-lengths) |
 | [0342-power-of-four](https://github.com/vikram-17-code/coding/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/vikram-17-code/coding/tree/master/0389-find-the-difference) |

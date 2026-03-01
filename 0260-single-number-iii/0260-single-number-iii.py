@@ -1,11 +1,18 @@
 class Solution:
     def singleNumber(self, nums: List[int]) -> List[int]:
-        result=[]
+        xor = 0
         for i in nums:
-            if i in result:
-                result.remove(i)
-            else:
-                result.append(i)
+            xor^=i
+        diff = xor & -xor
 
-        return result
+        a=0
+        b=0
+
+        for i in nums:
+            if(i&diff):
+                a^=i
+            else:
+                b^=i
+
+        return [a,b]
         

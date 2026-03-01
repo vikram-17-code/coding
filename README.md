@@ -26,6 +26,7 @@ problems from hackerrank and leetcode
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vikram-17-code/coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/vikram-17-code/coding/tree/master/0169-majority-element) |
 | [0260-single-number-iii](https://github.com/vikram-17-code/coding/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/vikram-17-code/coding/tree/master/0268-missing-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/vikram-17-code/coding/tree/master/0318-maximum-product-of-word-lengths) |
 | [0495-teemo-attacking](https://github.com/vikram-17-code/coding/tree/master/0495-teemo-attacking) |
 | [0500-keyboard-row](https://github.com/vikram-17-code/coding/tree/master/0500-keyboard-row) |
@@ -63,6 +64,7 @@ problems from hackerrank and leetcode
 | [0069-sqrtx](https://github.com/vikram-17-code/coding/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/vikram-17-code/coding/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/vikram-17-code/coding/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/vikram-17-code/coding/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/vikram-17-code/coding/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/vikram-17-code/coding/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/vikram-17-code/coding/tree/master/0342-power-of-four) |
@@ -98,6 +100,7 @@ problems from hackerrank and leetcode
 | [0141-linked-list-cycle](https://github.com/vikram-17-code/coding/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/vikram-17-code/coding/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/vikram-17-code/coding/tree/master/0205-isomorphic-strings) |
+| [0268-missing-number](https://github.com/vikram-17-code/coding/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/vikram-17-code/coding/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/vikram-17-code/coding/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/vikram-17-code/coding/tree/master/0387-first-unique-character-in-a-string) |
@@ -123,6 +126,7 @@ problems from hackerrank and leetcode
 | [0191-number-of-1-bits](https://github.com/vikram-17-code/coding/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/vikram-17-code/coding/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/vikram-17-code/coding/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/vikram-17-code/coding/tree/master/0268-missing-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/vikram-17-code/coding/tree/master/0318-maximum-product-of-word-lengths) |
 | [0342-power-of-four](https://github.com/vikram-17-code/coding/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/vikram-17-code/coding/tree/master/0389-find-the-difference) |
@@ -148,6 +152,7 @@ problems from hackerrank and leetcode
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vikram-17-code/coding/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/vikram-17-code/coding/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/vikram-17-code/coding/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
@@ -178,6 +183,7 @@ problems from hackerrank and leetcode
 | [0004-median-of-two-sorted-arrays](https://github.com/vikram-17-code/coding/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/vikram-17-code/coding/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vikram-17-code/coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/vikram-17-code/coding/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/vikram-17-code/coding/tree/master/0278-first-bad-version) |
 | [0441-arranging-coins](https://github.com/vikram-17-code/coding/tree/master/0441-arranging-coins) |
 ## Number Theory

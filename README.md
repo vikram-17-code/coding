@@ -63,6 +63,7 @@ problems from hackerrank and leetcode
 | [0066-plus-one](https://github.com/vikram-17-code/coding/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/vikram-17-code/coding/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/vikram-17-code/coding/tree/master/0069-sqrtx) |
+| [0089-gray-code](https://github.com/vikram-17-code/coding/tree/master/0089-gray-code) |
 | [0202-happy-number](https://github.com/vikram-17-code/coding/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/vikram-17-code/coding/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/vikram-17-code/coding/tree/master/0258-add-digits) |
@@ -124,6 +125,7 @@ problems from hackerrank and leetcode
 | ------- |
 | [0067-add-binary](https://github.com/vikram-17-code/coding/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/vikram-17-code/coding/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/vikram-17-code/coding/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/vikram-17-code/coding/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/vikram-17-code/coding/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/vikram-17-code/coding/tree/master/0191-number-of-1-bits) |
@@ -203,6 +205,7 @@ problems from hackerrank and leetcode
 |  |
 | ------- |
 | [0078-subsets](https://github.com/vikram-17-code/coding/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/vikram-17-code/coding/tree/master/0089-gray-code) |
 ## Design
 |  |
 | ------- |

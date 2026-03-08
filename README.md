@@ -44,6 +44,7 @@ problems from hackerrank and leetcode
 | [0141-linked-list-cycle](https://github.com/vikram-17-code/coding/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/vikram-17-code/coding/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vikram-17-code/coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/vikram-17-code/coding/tree/master/0202-happy-number) |
 ## Greedy
 |  |
 | ------- |
@@ -62,6 +63,7 @@ problems from hackerrank and leetcode
 | [0066-plus-one](https://github.com/vikram-17-code/coding/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/vikram-17-code/coding/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/vikram-17-code/coding/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/vikram-17-code/coding/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/vikram-17-code/coding/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/vikram-17-code/coding/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/vikram-17-code/coding/tree/master/0268-missing-number) |
@@ -99,6 +101,7 @@ problems from hackerrank and leetcode
 | [0041-first-missing-positive](https://github.com/vikram-17-code/coding/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/vikram-17-code/coding/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/vikram-17-code/coding/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/vikram-17-code/coding/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/vikram-17-code/coding/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/vikram-17-code/coding/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/vikram-17-code/coding/tree/master/0290-word-pattern) |

@@ -67,6 +67,7 @@ problems from hackerrank and leetcode
 | [0202-happy-number](https://github.com/vikram-17-code/coding/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/vikram-17-code/coding/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/vikram-17-code/coding/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/vikram-17-code/coding/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/vikram-17-code/coding/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/vikram-17-code/coding/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/vikram-17-code/coding/tree/master/0326-power-of-three) |

@@ -1,0 +1,24 @@
+import java.util.Scanner;
+public class jagged_array {
+    public static void main(String[] args){
+        Scanner scanner = new Scanner(System.in);
+        int n = scanner.nextInt();
+        int[][] jagarr = new int[n][];
+        for(int i =0;i<n;i++){
+            int a = scanner.nextInt();
+           jagarr[i] = new int[a];
+        }
+        for(int i = 0 ;i<n;i++){
+            int b = jagarr[i].length;
+            for(int j = 0;j<b;j++){
+                jagarr[i][j] = scanner.nextInt();
+            }
+        }
+        for (int i = 0;i<n;i++){
+            int b = jagarr[i].length;
+            for(int j = 0;j<b;j++){
+                System.out.println("["+i+"]"+"["+j+"] = "+jagarr[i][j]);
+            }
+        }
+    }
+}

@@ -1,0 +1,220 @@
+import javax.swing.*;
+import java.awt.*;
+import java.sql.*;
+
+public class BankUI extends JFrame {
+
+    static final String URL = "jdbc:oracle:thin:@localhost:1521:orcl";
+    static final String USER = "g358";
+    static final String PASS = "g358";
+
+    Connection bankCon, merchantCon;
+
+    JTextField fromField, toField, amountField, accField, payAmountField;
+    JTextArea output;
+
+    public BankUI() {
+        setTitle("Bank Transaction System");
+        setSize(600, 450);
+        setLayout(new BorderLayout(10, 10));
+
+        JPanel mainPanel = new JPanel(new GridLayout(1, 2, 10, 10));
+
+        // Transfer Panel
+        JPanel transferPanel = new JPanel(new GridLayout(4, 2, 5, 5));
+        transferPanel.setBorder(BorderFactory.createTitledBorder("Transfer Funds"));
+
+        transferPanel.add(new JLabel("From Account:"));
+        fromField = new JTextField();
+        transferPanel.add(fromField);
+
+        transferPanel.add(new JLabel("To Account:"));
+        toField = new JTextField();
+        transferPanel.add(toField);
+
+        transferPanel.add(new JLabel("Amount:"));
+        amountField = new JTextField();
+        transferPanel.add(amountField);
+
+        JButton transferBtn = new JButton("Transfer");
+        transferPanel.add(new JLabel());
+        transferPanel.add(transferBtn);
+
+        // Merchant Panel
+        JPanel merchantPanel = new JPanel(new GridLayout(3, 2, 5, 5));
+        merchantPanel.setBorder(BorderFactory.createTitledBorder("Merchant Payment"));
+
+        merchantPanel.add(new JLabel("Account ID:"));
+        accField = new JTextField();
+        merchantPanel.add(accField);
+
+        merchantPanel.add(new JLabel("Amount:"));
+        payAmountField = new JTextField();
+        merchantPanel.add(payAmountField);
+
+        JButton payBtn = new JButton("Pay");
+        merchantPanel.add(new JLabel());
+        merchantPanel.add(payBtn);
+
+        mainPanel.add(transferPanel);
+        mainPanel.add(merchantPanel);
+
+        add(mainPanel, BorderLayout.NORTH);
+
+        // Output
+        output = new JTextArea();
+        output.setEditable(false);
+        output.setFont(new Font("Monospaced", Font.PLAIN, 13));
+        add(new JScrollPane(output), BorderLayout.CENTER);
+
+        transferBtn.addActionListener(e -> transferAction());
+        payBtn.addActionListener(e -> merchantAction());
+
+        connectDB();
+
+        setDefaultCloseOperation(EXIT_ON_CLOSE);
+        setLocationRelativeTo(null);
+        setVisible(true);
+    }
+
+    // OLD connection (no HikariCP)
+    void connectDB() {
+        try {
+            Class.forName("oracle.jdbc.driver.OracleDriver");
+
+            bankCon = DriverManager.getConnection(URL, USER, PASS);
+            merchantCon = DriverManager.getConnection(URL, USER, PASS);
+
+            bankCon.setAutoCommit(false);
+            merchantCon.setAutoCommit(false);
+
+            output.append("Connected using DriverManager\n");
+
+        } catch (Exception e) {
+            output.append("DB Error: " + e.getMessage() + "\n");
+        }
+    }
+
+    void transferAction() {
+        try {
+            int from = Integer.parseInt(fromField.getText());
+            int to = Integer.parseInt(toField.getText());
+            int amt = Integer.parseInt(amountField.getText());
+
+            transferFunds(from, to, amt);
+
+        } catch (Exception e) {
+            output.append("Error: " + e.getMessage() + "\n");
+        }
+    }
+
+    void merchantAction() {
+        try {
+            int acc = Integer.parseInt(accField.getText());
+            int amt = Integer.parseInt(payAmountField.getText());
+
+            merchantPayment(acc, amt);
+
+        } catch (Exception e) {
+            output.append("Error: " + e.getMessage() + "\n");
+        }
+    }
+
+    int getBalance(Connection con, int accId) throws SQLException {
+        PreparedStatement ps = con.prepareStatement(
+                "SELECT balance FROM BankAccounts WHERE account_id=?");
+        ps.setInt(1, accId);
+        ResultSet rs = ps.executeQuery();
+
+        if (rs.next()) return rs.getInt(1);
+        return -1;
+    }
+
+    // Transfer logic
+    void transferFunds(int fromAcc, int toAcc, int amount) throws SQLException {
+        try (
+            PreparedStatement check = bankCon.prepareStatement(
+                    "SELECT balance FROM BankAccounts WHERE account_id=?");
+            PreparedStatement debit = bankCon.prepareStatement(
+                    "UPDATE BankAccounts SET balance=balance-? WHERE account_id=?");
+            PreparedStatement credit = bankCon.prepareStatement(
+                    "UPDATE BankAccounts SET balance=balance+? WHERE account_id=?")
+        ) {
+
+            check.setInt(1, fromAcc);
+            ResultSet rs = check.executeQuery();
+
+            if (rs.next() && rs.getInt(1) < amount)
+                throw new SQLException("Insufficient balance");
+
+            debit.setInt(1, amount);
+            debit.setInt(2, fromAcc);
+            debit.executeUpdate();
+
+            credit.setInt(1, amount);
+            credit.setInt(2, toAcc);
+            credit.executeUpdate();
+
+            bankCon.commit();
+
+            output.append("✅ Transfer Successful\n");
+            output.append("From Balance: " + getBalance(bankCon, fromAcc) + "\n");
+            output.append("To Balance: " + getBalance(bankCon, toAcc) + "\n\n");
+
+        } catch (Exception e) {
+            if (bankCon != null) bankCon.rollback();
+            output.append("❌ Transfer Failed\n");
+        }
+    }
+
+    // Merchant payment
+    void merchantPayment(int accId, int amount) throws SQLException {
+        try (
+            PreparedStatement check = bankCon.prepareStatement(
+                    "SELECT balance FROM BankAccounts WHERE account_id=?");
+            PreparedStatement debit = bankCon.prepareStatement(
+                    "UPDATE BankAccounts SET balance=balance-? WHERE account_id=?");
+            Statement stmt = merchantCon.createStatement()
+        ) {
+
+            check.setInt(1, accId);
+            ResultSet rs = check.executeQuery();
+
+            if (rs.next() && rs.getInt(1) < amount)
+                throw new SQLException("Insufficient balance");
+
+            debit.setInt(1, amount);
+            debit.setInt(2, accId);
+            debit.executeUpdate();
+
+            ResultSet rs2 = stmt.executeQuery(
+                    "SELECT NVL(MAX(payment_id),0)+1 FROM MerchantPayments");
+
+            int id = 1;
+            if (rs2.next()) id = rs2.getInt(1);
+
+            PreparedStatement insert = merchantCon.prepareStatement(
+                    "INSERT INTO MerchantPayments VALUES (?, ?, ?)");
+
+            insert.setInt(1, id);
+            insert.setInt(2, accId);
+            insert.setInt(3, amount);
+            insert.executeUpdate();
+
+            bankCon.commit();
+            merchantCon.commit();
+
+            output.append("✅ Merchant Payment Successful\n");
+            output.append("Updated Balance: " + getBalance(bankCon, accId) + "\n\n");
+
+        } catch (Exception e) {
+            if (bankCon != null) bankCon.rollback();
+            if (merchantCon != null) merchantCon.rollback();
+            output.append("❌ Merchant Payment Failed\n");
+        }
+    }
+
+    public static void main(String[] args) {
+        new BankUI();
+    }
+}

@@ -275,4 +275,8 @@ problems from hackerrank and leetcode
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/vikram-17-code/coding/tree/master/0509-fibonacci-number) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/vikram-17-code/coding/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->

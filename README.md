@@ -33,6 +33,7 @@ problems from hackerrank and leetcode
 | [0500-keyboard-row](https://github.com/vikram-17-code/coding/tree/master/0500-keyboard-row) |
 | [0566-reshape-the-matrix](https://github.com/vikram-17-code/coding/tree/master/0566-reshape-the-matrix) |
 | [0890-lemonade-change](https://github.com/vikram-17-code/coding/tree/master/0890-lemonade-change) |
+| [1833-maximum-ice-cream-bars](https://github.com/vikram-17-code/coding/tree/master/1833-maximum-ice-cream-bars) |
 | [2486-most-frequent-even-element](https://github.com/vikram-17-code/coding/tree/master/2486-most-frequent-even-element) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/vikram-17-code/coding/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Two Pointers
@@ -55,6 +56,7 @@ problems from hackerrank and leetcode
 | [0134-gas-station](https://github.com/vikram-17-code/coding/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/vikram-17-code/coding/tree/master/0135-candy) |
 | [0890-lemonade-change](https://github.com/vikram-17-code/coding/tree/master/0890-lemonade-change) |
+| [1833-maximum-ice-cream-bars](https://github.com/vikram-17-code/coding/tree/master/1833-maximum-ice-cream-bars) |
 ## Math
 |  |
 | ------- |
@@ -166,6 +168,7 @@ problems from hackerrank and leetcode
 | [0169-majority-element](https://github.com/vikram-17-code/coding/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/vikram-17-code/coding/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/vikram-17-code/coding/tree/master/0389-find-the-difference) |
+| [1833-maximum-ice-cream-bars](https://github.com/vikram-17-code/coding/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting
 |  |
 | ------- |
@@ -283,4 +286,8 @@ problems from hackerrank and leetcode
 | ------- |
 | [0175-combine-two-tables](https://github.com/vikram-17-code/coding/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/vikram-17-code/coding/tree/master/0181-employees-earning-more-than-their-managers) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/vikram-17-code/coding/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->

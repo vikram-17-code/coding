@@ -36,6 +36,7 @@ problems from hackerrank and leetcode
 | [1833-maximum-ice-cream-bars](https://github.com/vikram-17-code/coding/tree/master/1833-maximum-ice-cream-bars) |
 | [2486-most-frequent-even-element](https://github.com/vikram-17-code/coding/tree/master/2486-most-frequent-even-element) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/vikram-17-code/coding/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/vikram-17-code/coding/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -120,6 +121,7 @@ problems from hackerrank and leetcode
 | [2406-decode-the-message](https://github.com/vikram-17-code/coding/tree/master/2406-decode-the-message) |
 | [2486-most-frequent-even-element](https://github.com/vikram-17-code/coding/tree/master/2486-most-frequent-even-element) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/vikram-17-code/coding/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/vikram-17-code/coding/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Matrix
 |  |
 | ------- |
@@ -162,6 +164,7 @@ problems from hackerrank and leetcode
 | [0004-median-of-two-sorted-arrays](https://github.com/vikram-17-code/coding/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/vikram-17-code/coding/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/vikram-17-code/coding/tree/master/0191-number-of-1-bits) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/vikram-17-code/coding/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sorting
 |  |
 | ------- |
@@ -177,6 +180,7 @@ problems from hackerrank and leetcode
 | [0387-first-unique-character-in-a-string](https://github.com/vikram-17-code/coding/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/vikram-17-code/coding/tree/master/1189-maximum-number-of-balloons) |
 | [2486-most-frequent-even-element](https://github.com/vikram-17-code/coding/tree/master/2486-most-frequent-even-element) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/vikram-17-code/coding/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Stack
 |  |
 | ------- |
@@ -294,4 +298,16 @@ problems from hackerrank and leetcode
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/vikram-17-code/coding/tree/master/1833-maximum-ice-cream-bars) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/vikram-17-code/coding/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/vikram-17-code/coding/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/vikram-17-code/coding/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->

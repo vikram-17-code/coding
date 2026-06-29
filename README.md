@@ -296,6 +296,7 @@ problems from hackerrank and leetcode
 | [0182-duplicate-emails](https://github.com/vikram-17-code/coding/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/vikram-17-code/coding/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/vikram-17-code/coding/tree/master/0184-department-highest-salary) |
+| [0196-delete-duplicate-emails](https://github.com/vikram-17-code/coding/tree/master/0196-delete-duplicate-emails) |
 ## Counting Sort
 |  |
 | ------- |

@@ -34,6 +34,7 @@ problems from hackerrank and leetcode
 | [0566-reshape-the-matrix](https://github.com/vikram-17-code/coding/tree/master/0566-reshape-the-matrix) |
 | [0890-lemonade-change](https://github.com/vikram-17-code/coding/tree/master/0890-lemonade-change) |
 | [1833-maximum-ice-cream-bars](https://github.com/vikram-17-code/coding/tree/master/1833-maximum-ice-cream-bars) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vikram-17-code/coding/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2486-most-frequent-even-element](https://github.com/vikram-17-code/coding/tree/master/2486-most-frequent-even-element) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/vikram-17-code/coding/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vikram-17-code/coding/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -101,6 +102,7 @@ problems from hackerrank and leetcode
 | [0551-student-attendance-record-i](https://github.com/vikram-17-code/coding/tree/master/0551-student-attendance-record-i) |
 | [0709-to-lower-case](https://github.com/vikram-17-code/coding/tree/master/0709-to-lower-case) |
 | [1189-maximum-number-of-balloons](https://github.com/vikram-17-code/coding/tree/master/1189-maximum-number-of-balloons) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vikram-17-code/coding/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2406-decode-the-message](https://github.com/vikram-17-code/coding/tree/master/2406-decode-the-message) |
 ## Hash Table
 |  |

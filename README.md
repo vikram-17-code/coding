@@ -19,6 +19,7 @@ problems from hackerrank and leetcode
 | [0078-subsets](https://github.com/vikram-17-code/coding/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vikram-17-code/coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vikram-17-code/coding/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/vikram-17-code/coding/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/vikram-17-code/coding/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/vikram-17-code/coding/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/vikram-17-code/coding/tree/master/0136-single-number) |
@@ -109,6 +110,7 @@ problems from hackerrank and leetcode
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vikram-17-code/coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/vikram-17-code/coding/tree/master/0041-first-missing-positive) |
+| [0128-longest-consecutive-sequence](https://github.com/vikram-17-code/coding/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/vikram-17-code/coding/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/vikram-17-code/coding/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/vikram-17-code/coding/tree/master/0202-happy-number) |
@@ -315,4 +317,8 @@ problems from hackerrank and leetcode
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vikram-17-code/coding/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/vikram-17-code/coding/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->

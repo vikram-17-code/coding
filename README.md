@@ -34,6 +34,7 @@ problems from hackerrank and leetcode
 | [0500-keyboard-row](https://github.com/vikram-17-code/coding/tree/master/0500-keyboard-row) |
 | [0566-reshape-the-matrix](https://github.com/vikram-17-code/coding/tree/master/0566-reshape-the-matrix) |
 | [0890-lemonade-change](https://github.com/vikram-17-code/coding/tree/master/0890-lemonade-change) |
+| [1331-rank-transform-of-an-array](https://github.com/vikram-17-code/coding/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/vikram-17-code/coding/tree/master/1833-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vikram-17-code/coding/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2486-most-frequent-even-element](https://github.com/vikram-17-code/coding/tree/master/2486-most-frequent-even-element) |
@@ -122,6 +123,7 @@ problems from hackerrank and leetcode
 | [0389-find-the-difference](https://github.com/vikram-17-code/coding/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/vikram-17-code/coding/tree/master/0500-keyboard-row) |
 | [1189-maximum-number-of-balloons](https://github.com/vikram-17-code/coding/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/vikram-17-code/coding/tree/master/1331-rank-transform-of-an-array) |
 | [2406-decode-the-message](https://github.com/vikram-17-code/coding/tree/master/2406-decode-the-message) |
 | [2486-most-frequent-even-element](https://github.com/vikram-17-code/coding/tree/master/2486-most-frequent-even-element) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/vikram-17-code/coding/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -175,6 +177,7 @@ problems from hackerrank and leetcode
 | [0169-majority-element](https://github.com/vikram-17-code/coding/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/vikram-17-code/coding/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/vikram-17-code/coding/tree/master/0389-find-the-difference) |
+| [1331-rank-transform-of-an-array](https://github.com/vikram-17-code/coding/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/vikram-17-code/coding/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting
 |  |

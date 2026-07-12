@@ -228,6 +228,7 @@ problems from hackerrank and leetcode
 ## Backtracking
 |  |
 | ------- |
+| [0052-n-queens-ii](https://github.com/vikram-17-code/coding/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/vikram-17-code/coding/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/vikram-17-code/coding/tree/master/0089-gray-code) |
 ## Design

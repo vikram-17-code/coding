@@ -311,6 +311,7 @@ problems from hackerrank and leetcode
 | [0196-delete-duplicate-emails](https://github.com/vikram-17-code/coding/tree/master/0196-delete-duplicate-emails) |
 | [0627-swap-sex-of-employees](https://github.com/vikram-17-code/coding/tree/master/0627-swap-sex-of-employees) |
 | [1045-customers-who-bought-all-products](https://github.com/vikram-17-code/coding/tree/master/1045-customers-who-bought-all-products) |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/vikram-17-code/coding/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 ## Counting Sort
 |  |
 | ------- |

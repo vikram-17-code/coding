@@ -11,8 +11,8 @@ class Solution:
             if (i<n-1) and roman[s[i+1]]>roman[s[i]]:
                 result += (roman[s[i+1]]-roman[s[i]])
                 skip=True
-                print(result , i)
+                
             else:
                 result += roman[s[i]]
-                print(result,i)
+                
         return result

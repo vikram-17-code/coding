@@ -37,6 +37,7 @@ problems from hackerrank and leetcode
 | [1331-rank-transform-of-an-array](https://github.com/vikram-17-code/coding/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/vikram-17-code/coding/tree/master/1833-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vikram-17-code/coding/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/vikram-17-code/coding/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2486-most-frequent-even-element](https://github.com/vikram-17-code/coding/tree/master/2486-most-frequent-even-element) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/vikram-17-code/coding/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vikram-17-code/coding/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -84,6 +85,7 @@ problems from hackerrank and leetcode
 | [0509-fibonacci-number](https://github.com/vikram-17-code/coding/tree/master/0509-fibonacci-number) |
 | [1642-water-bottles](https://github.com/vikram-17-code/coding/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/vikram-17-code/coding/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/vikram-17-code/coding/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## String
 |  |
 | ------- |
@@ -218,6 +220,7 @@ problems from hackerrank and leetcode
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/vikram-17-code/coding/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/vikram-17-code/coding/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |

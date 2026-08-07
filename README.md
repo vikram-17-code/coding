@@ -69,6 +69,7 @@ problems from hackerrank and leetcode
 | [0007-reverse-integer](https://github.com/vikram-17-code/coding/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/vikram-17-code/coding/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/vikram-17-code/coding/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/vikram-17-code/coding/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/vikram-17-code/coding/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/vikram-17-code/coding/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/vikram-17-code/coding/tree/master/0069-sqrtx) |
@@ -230,6 +231,7 @@ problems from hackerrank and leetcode
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/vikram-17-code/coding/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/vikram-17-code/coding/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vikram-17-code/coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vikram-17-code/coding/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0509-fibonacci-number](https://github.com/vikram-17-code/coding/tree/master/0509-fibonacci-number) |
@@ -348,4 +350,8 @@ problems from hackerrank and leetcode
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vikram-17-code/coding/tree/master/0104-maximum-depth-of-binary-tree) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/vikram-17-code/coding/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->

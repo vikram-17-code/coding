@@ -16,6 +16,7 @@ problems from hackerrank and leetcode
 | [0055-jump-game](https://github.com/vikram-17-code/coding/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/vikram-17-code/coding/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/vikram-17-code/coding/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/vikram-17-code/coding/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/vikram-17-code/coding/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/vikram-17-code/coding/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vikram-17-code/coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -144,6 +145,7 @@ problems from hackerrank and leetcode
 | [0054-spiral-matrix](https://github.com/vikram-17-code/coding/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/vikram-17-code/coding/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/vikram-17-code/coding/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/vikram-17-code/coding/tree/master/0064-minimum-path-sum) |
 | [0289-game-of-life](https://github.com/vikram-17-code/coding/tree/master/0289-game-of-life) |
 | [0566-reshape-the-matrix](https://github.com/vikram-17-code/coding/tree/master/0566-reshape-the-matrix) |
 ## Bit Manipulation
@@ -235,6 +237,7 @@ problems from hackerrank and leetcode
 | [0055-jump-game](https://github.com/vikram-17-code/coding/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/vikram-17-code/coding/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/vikram-17-code/coding/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/vikram-17-code/coding/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vikram-17-code/coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vikram-17-code/coding/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0509-fibonacci-number](https://github.com/vikram-17-code/coding/tree/master/0509-fibonacci-number) |

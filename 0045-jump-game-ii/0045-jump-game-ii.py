@@ -5,9 +5,6 @@ class Solution:
 
         dp[0] = 0
         for i in range(n-1):
-            if i>0:
-                if nums[i] < nums[i-1]:
-                    continue
             for j in range(1,nums[i]+1):
             
                 if i+j < n:

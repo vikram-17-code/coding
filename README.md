@@ -11,6 +11,7 @@ problems from hackerrank and leetcode
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vikram-17-code/coding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vikram-17-code/coding/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/vikram-17-code/coding/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/vikram-17-code/coding/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/vikram-17-code/coding/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/vikram-17-code/coding/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/vikram-17-code/coding/tree/master/0055-jump-game) |
@@ -58,6 +59,7 @@ problems from hackerrank and leetcode
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vikram-17-code/coding/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/vikram-17-code/coding/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vikram-17-code/coding/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vikram-17-code/coding/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/vikram-17-code/coding/tree/master/0134-gas-station) |
@@ -235,6 +237,7 @@ problems from hackerrank and leetcode
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/vikram-17-code/coding/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vikram-17-code/coding/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/vikram-17-code/coding/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/vikram-17-code/coding/tree/master/0063-unique-paths-ii) |

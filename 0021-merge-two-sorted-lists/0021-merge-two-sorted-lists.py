@@ -12,13 +12,13 @@ class Solution:
         while(l1 is not None and l2 is not None):
             
             if l1.val <= l2.val:
-                re.next = ListNode(l1.val)
+                re.next = l1
                 l1 = l1.next
                 
                 
             else:
     
-                re.next = ListNode(l2.val)
+                re.next = l2
                 l2 = l2.next
                 
             re = re.next
